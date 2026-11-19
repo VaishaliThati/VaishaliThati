@@ -81,14 +81,6 @@ I take messy data, clean it, question it, and turn it into answers a business ca
 
 1. **Start with the decision.** What would someone do differently because of this answer?
 2. **Audit before analyzing.** Check row counts, nulls, duplicates, join keys and date logic.
-3. **Define the metric.** Revenue per order or per customer? Rates or counts?
-4. **Sanity-check the result.** Do totals still match after the joins? Does the number make business sense?
-5. **End with a recommendation and its limits.** Say what the data can't support.
-
-# 🧭 How I Approach a Dataset
-
-1. **Start with the decision.** What would someone do differently because of this answer?
-2. **Audit before analyzing.** Check row counts, nulls, duplicates, join keys and date logic.
 3. **Clean what the audit finds.** Fix data types, handle nulls and duplicates, and document every decision I make.
 4. **Define the metric.** Revenue per order or per customer? Rates or counts?
 5. **Analyze.** Use SQL, Python, Excel or Power BI to answer the question, and look for patterns, trends and outliers along the way.
