@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=for-the-badge" alt="Open to Work">
-  <img src="https://img.shields.io/badge/Hyderabad-Open_to_relocate_%7C_Remote-0A66C2?style=for-the-badge" alt="Location">
-  <img src="https://img.shields.io/badge/B.Tech-Data_Science_2025-6f42c1?style=for-the-badge" alt="Education">
+  <img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=for-the-badge" alt="Open to Work">
+  <img src="https://img.shields.io/badge/Hyderabad_%C2%B7_Open_to_Relocate_%C2%B7_Remote-0A66C2?style=for-the-badge" alt="Location">
+  <img src="https://img.shields.io/badge/B.Tech_Data_Science_2025-6f42c1?style=for-the-badge" alt="Education">
 </p>
 
 # 💫 About Me
