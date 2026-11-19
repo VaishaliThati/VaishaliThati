@@ -71,6 +71,30 @@ I take messy data, clean it, question it, and turn it into answers a business ca
 - Built interactive dashboards using Power BI, Power Query and DAX.
 - Tracked Presence %, WFH % and Sick Leave %.
 
+# 🔍 Lessons My Projects Taught Me
+
+- **Accuracy can lie, and so can a single split.** My Random Forest and XGBoost models were 98% accurate on loan defaults yet caught 0% of defaulters, and my Logistic Regression's 64% recall dropped to 50.4% ± 11.5% under 5-fold cross-validation.
+- **A process problem can matter more than volume.** In my food delivery data, orders wrongly marked "ready" had a 15.3% delay rate vs 7.9%, a bigger gap than peak vs off-peak hours (9.1% vs 7.7%).
+- **A big number isn't automatically an insight.** In my e-commerce data, Electronics drove 48% of revenue from 12% of orders, but that mostly reflects higher prices, so I focused on customer-level patterns instead, like the top 20% of customers driving 59% of spend.
+
+# 🧭 How I Approach a Dataset
+
+1. **Start with the decision.** What would someone do differently because of this answer?
+2. **Audit before analyzing.** Check row counts, nulls, duplicates, join keys and date logic.
+3. **Define the metric.** Revenue per order or per customer? Rates or counts?
+4. **Sanity-check the result.** Do totals still match after the joins? Does the number make business sense?
+5. **End with a recommendation and its limits.** Say what the data can't support.
+
+# 🧭 How I Approach a Dataset
+
+1. **Start with the decision.** What would someone do differently because of this answer?
+2. **Audit before analyzing.** Check row counts, nulls, duplicates, join keys and date logic.
+3. **Clean what the audit finds.** Fix data types, handle nulls and duplicates, and document every decision I make.
+4. **Define the metric.** Revenue per order or per customer? Rates or counts?
+5. **Analyze.** Use SQL, Python, Excel or Power BI to answer the question, and look for patterns, trends and outliers along the way.
+6. **Sanity-check the result.** Do totals still match after the joins? Does the number make business sense?
+7. **End with a recommendation and its limits.** Say what the data can't support.
+
 # 🧠 Core Competencies
 
 - **Data Analysis:** Data Cleaning, Exploratory Data Analysis (EDA), Data Manipulation, KPI Development
@@ -97,3 +121,15 @@ I take messy data, clean it, question it, and turn it into answers a business ca
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+
+# 🌱 Beyond the Data
+
+- 🧭 **Who am I:** Introspective, curious, a lifelong learner, level-headed, empathetic and a friendly collaborator
+- 💡 **What pulled me into data:** I came across data analysis in my first year of college and loved the idea of finding the story behind the numbers. My final-year team project, which I led, confirmed it. Later, through my personal projects, I found I enjoy the unglamorous parts like cleaning messy data and digging for patterns. That's where the real insight comes from.
+- 🎯 **Outside of work I enjoy:**
+  - 📚 **Reading:** I only recently started, after noticing I spent more time in a mall's bookstore than anywhere else. Now I look for books that make me think.
+  - 🎬 **Films:** I like ones with a deeper meaning, and I tend to pick up on the emotions in them quickly.
+  - 🎧 **Music:** My quiet escape and my way of resetting.
+  - 🌱 **Learning something new:** I like learning things that help me grow professionally and personally. I keep building my domain knowledge, I'm working on my English communication, and I'm learning Korean as a beginner 🇰🇷.
+  - 🧠 **Easter egg:** I'm an introspective person, so analysis really is in my blood. 😄
+- 🗣️ **Languages:** English · తెలుగు · हिन्दी
