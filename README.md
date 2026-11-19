@@ -97,7 +97,3 @@ I take messy data, clean it, question it, and turn it into answers a business ca
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=VaishaliThati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
